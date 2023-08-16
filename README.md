@@ -10,4 +10,4 @@ UPDATE: The products table in the main form now has an extra column that display
 * How to build a basic JavaFX GUI with Scene Builder
 * Introduction to FXML
 * More familiarity with OOP
-* How to create an executable from a maven-built jar file
+* How to create an executable from a jar file
