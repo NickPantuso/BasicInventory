@@ -4,7 +4,6 @@ package com.group.basicinventory.model;
  */
 
 /**
- *
  * @author WGU
  */
 public abstract class Part {
