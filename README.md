@@ -3,7 +3,7 @@ The program starts out with a completely empty inventory that is not connected t
 
 NOTE: Executable requires at least JRE version 1.6. Windows may create a pop-up that tells you to not run the program, but the program is safe.
 
-UPDATE: The products table in the main form now has an extra column that displays true/false depending on if the product has an any associated parts. This way, you don't have to try deleting or modifying a product to see if there are associated parts.
+UPDATE: The products table in the main form now has an extra column that displays true/false depending on if the product has any associated parts. This way, you don't have to try deleting or modifying a product to see if there are associated parts.
 
 # What was learned?
 
